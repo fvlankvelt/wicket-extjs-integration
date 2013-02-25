@@ -4,7 +4,7 @@
 
 The wicket-extjs-integration project is developed under the Apache License.  Because Ext JS is released under the terms of the GPL, the licensing is non-trivial.
 
-= Licenses =
+== Licenses ==
 The licenses that are at work are
   * The [http://www.apache.org/licenses/LICENSE-2.0 Apache Software License version 2.0] (ASL2)
   * The [http://www.gnu.org/licenses/gpl-3.0.html GNU General Public License version 3.0] (GPL3)
