@@ -26,7 +26,7 @@ The (java) Wicket integration is developed under the "Exception for Development"
 
 This module contains the Ext JS code and it's modifications.  It is therefore released under the same terms Ext JS is.  I.e. this module is licensed under version 3 of the GNU General Public License (GPLv3).
 
-It is possible to use this bundle in an free/open source application with the use of the "Exception for Applications".
+It is possible to use this bundle in an free/open source application with the use of the "Exception for Applications".  It is also possible to develop against this library with the use of the "Exception for Development. This is also what the wicket-extjs module is using.
 
 == wicket-extjs-examples License ==
 
